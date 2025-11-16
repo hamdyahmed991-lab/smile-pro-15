@@ -1,0 +1,7 @@
+{
+  "name": "14Smile Pro ",
+  "description": "An AI-powered smile transformation app with three modes: a simplified 'Lite' editor, a full-featured 'Pro' editor, and an instant 'Cheese' one-click smile generator.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
