@@ -1,6 +1,6 @@
 {
   "name": "smile-pro",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "private": true,
   "scripts": {
     "dev": "vite",
@@ -12,8 +12,10 @@
     "react-dom": "^18.2.0"
   },
   "devDependencies": {
-    "vite": "^5.0.0",
-    "@vitejs/plugin-react": "^4.0.0",
-    "typescript": "^5.0.0"
+    "@types/react": "^18.2.7",
+    "@types/react-dom": "^18.2.4",
+    "typescript": "^5.1.6",
+    "vite": "^6.4.1",
+    "@vitejs/plugin-react": "^4.0.0"
   }
 }
