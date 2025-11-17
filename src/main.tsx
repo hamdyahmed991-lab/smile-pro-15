@@ -1,3 +1,4 @@
+<script type="module" src="/src/main.tsx"></script>
 import React from 'react';
 import { createRoot } from 'react-dom/client';
 import App from './App';
